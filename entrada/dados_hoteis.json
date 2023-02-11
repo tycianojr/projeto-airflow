@@ -1,0 +1,8313 @@
+[{
+  "id": "647710",
+  "type": "HOTEL",
+  "name": "Riad Dar Najat",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "52",
+  "priceLevel": "$$",
+  "priceRange": "$82 - $155",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 661-439221",
+  "address": "Derb Lalla Chacha 18 Douar Graoua, Marrakech 40000 Morocco",
+  "email": "black_zitoun@yahoo.fr",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.623947",
+  "longitude": "-7.983573",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d647710-Reviews-Riad_Dar_Najat-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riaddarnajat.com",
+  "rankingString": "#52 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "1241",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1193710",
+  "type": "HOTEL",
+  "name": "Zamzam Riad",
+  "awards": [
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "51",
+  "priceLevel": "$$",
+  "priceRange": "$126 - $201",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 661-215062",
+  "address": "107, Rue Kaa El Machraa, Marrakech 40000 Morocco",
+  "email": "zamzamriad@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.640854",
+  "longitude": "-7.990644",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1193710-Reviews-Zamzam_Riad-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadzamzam.com/",
+  "rankingString": "#51 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "582",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "671279",
+  "type": "HOTEL",
+  "name": "Riad Tzarra",
+  "awards": [
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "56",
+  "priceLevel": "$$",
+  "priceRange": "$99 - $124",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.5",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-77737",
+  "address": "22 Derb Lalla Azzouna Medina, Marrakech 40000 Morocco",
+  "email": "contact@riadtzarra.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.630955",
+  "longitude": "-7.983018",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d671279-Reviews-Riad_Tzarra-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadtzarra.com/",
+  "rankingString": "#56 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "272",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "304183",
+  "type": "HOTEL",
+  "name": "Villa des Orangers",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "59",
+  "priceLevel": "$$$$",
+  "priceRange": "$354 - $817",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-84638",
+  "address": "6 rue Mimoun Place Ben Tachfine, Marrakech 40000 Morocco",
+  "email": "message@villadesorangers.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.620398",
+  "longitude": "-7.991431",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d304183-Reviews-Villa_des_Orangers-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.villadesorangers.com",
+  "rankingString": "#59 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "864",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "5970938",
+  "type": "HOTEL",
+  "name": "Palais Khum",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    }
+  ],
+  "rankingPosition": "57",
+  "priceLevel": "$$$",
+  "priceRange": "$126 - $327",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-90389",
+  "address": "2 Derb El Hammaria Dar El Bacha , Medina, Marrakech 40000 Morocco",
+  "email": "reservations@palaiskhum.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.631771",
+  "longitude": "-7.991024",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d5970938-Reviews-Palais_Khum-Marrakech_Marrakech_Safi.html",
+  "website": "http://Www.palaiskhum.com",
+  "rankingString": "#57 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "531",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "631592",
+  "type": "HOTEL",
+  "name": "Club Med Marrakech le Riad",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Travelers' Choice 2021"
+    },
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "55",
+  "priceLevel": "",
+  "category": "hotel",
+  "rating": "4.5",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "18554654582",
+  "address": "Sidi Yahya, Marrakech 40000 Morocco",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.661482",
+  "longitude": "-7.980864",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d631592-Reviews-Club_Med_Marrakech_le_Riad-Marrakech_Marrakech_Safi.html",
+  "rankingString": "#55 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "1133",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "897178",
+  "type": "HOTEL",
+  "name": "Riad Miski",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "58",
+  "priceLevel": "$",
+  "priceRange": "$69 - $123",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.5",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-91629",
+  "address": "6 derb Abdelouassaa Close to the Sidi Ayoub square, Marrakech 40000 Morocco",
+  "email": "riadmiski@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.628405",
+  "longitude": "-7.98175",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d897178-Reviews-Riad_Miski-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadmiski.com",
+  "rankingString": "#58 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "1023",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1990531",
+  "type": "HOTEL",
+  "name": "Villa Makassar",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "54",
+  "priceLevel": "$$$",
+  "priceRange": "$158 - $313",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-91926",
+  "address": "20 Derb Chtouka Kasbah, Marrakech 40000 Morocco",
+  "email": "villamakassar@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.61256",
+  "longitude": "-7.987321",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1990531-Reviews-Villa_Makassar-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.villamakassar.com",
+  "rankingString": "#54 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "955",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "503098",
+  "type": "HOTEL",
+  "name": "Ksar Char-Bagh Small Luxury hotel",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "60",
+  "priceLevel": "$$$$",
+  "priceRange": "$318 - $1,101",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-29244",
+  "address": "Palmeraie de Marrakech Bp 12478, Marrakech 40000 Morocco",
+  "email": "info@ksarcharbagh.fr",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.671934",
+  "longitude": "-7.928846",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d503098-Reviews-Ksar_Char_Bagh_Small_Luxury_hotel-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.ksarcharbagh.fr/",
+  "rankingString": "#60 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "310",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "585719",
+  "type": "HOTEL",
+  "name": "Riad La Terrasse des Oliviers",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "53",
+  "priceLevel": "$",
+  "priceRange": "$71 - $120",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-87248",
+  "address": "79, Derb Derdouba Bab Doukkala - Médina, Marrakech 40030 Morocco",
+  "email": "contact@terrasse-des-oliviers.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.635406",
+  "longitude": "-7.994574",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d585719-Reviews-Riad_La_Terrasse_des_Oliviers-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.terrasse-des-oliviers.com",
+  "rankingString": "#53 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "331",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1063269",
+  "type": "HOTEL",
+  "name": "Riad 58 Blu",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "66",
+  "priceLevel": "$$",
+  "priceRange": "$67 - $134",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "212 24 38 09 31",
+  "address": "Derb Jdid 58 Douar Graoua, Marrakech 40000 Morocco",
+  "email": "contact@riad58blu.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.625237",
+  "longitude": "-7.983334",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1063269-Reviews-Riad_58_Blu-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riad58blu.com/",
+  "rankingString": "#66 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "914",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "3845394",
+  "type": "HOTEL",
+  "name": "Riad Bab Tilila",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    }
+  ],
+  "rankingPosition": "63",
+  "priceLevel": "$",
+  "priceRange": "$52 - $94",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-84203",
+  "address": "Derb Zaouia no 3 Babdoukala, Marrakech-Medina Derb Zaouia No 3 Babdoukala,Marrakech, Marrakech 40030 Morocco",
+  "email": "riadbabtilila@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.631271",
+  "longitude": "-7.996691",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d3845394-Reviews-Riad_Bab_Tilila-Marrakech_Marrakech_Safi.html",
+  "rankingString": "#63 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "292",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "7778950",
+  "type": "HOTEL",
+  "name": "Art Place Hotel & Ryad",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "61",
+  "priceLevel": "$$",
+  "priceRange": "$123 - $333",
+  "category": "hotel",
+  "rating": "4.5",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-90009",
+  "address": "Place Jemaa El Fna, Marrakech 40000 Morocco",
+  "email": "contact@artplace-hotel.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.625687",
+  "longitude": "-7.987919",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d7778950-Reviews-Art_Place_Hotel_Ryad-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.artplace-marrakech.com",
+  "rankingString": "#61 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "585",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1687322",
+  "type": "HOTEL",
+  "name": "Riad Charlott'",
+  "awards": [
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "62",
+  "priceLevel": "$",
+  "priceRange": "$79 - $147",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "0.0",
+  "phone": "+33 6 63 15 04 79",
+  "address": "Derb Sidi Ahmed Bennacer Kaat Bennahid, Marrakech 40000 Morocco",
+  "email": "p-brou@riad-charlott.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.630625",
+  "longitude": "-7.984725",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1687322-Reviews-Riad_Charlott-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riad-charlott.com",
+  "rankingString": "#62 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "432",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1566640",
+  "type": "HOTEL",
+  "name": "Riad les Orangers d'Alilia Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "65",
+  "priceLevel": "$",
+  "priceRange": "$74 - $128",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-86432",
+  "address": "216 Rue Tadla, Derb Chtouka Marrakech-Medina, Marrakech 40040 Morocco",
+  "email": "info@orangersdalilia.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.612896",
+  "longitude": "-7.986514",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1566640-Reviews-Riad_les_Orangers_d_Alilia_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.orangersdalilia.com/",
+  "rankingString": "#65 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "764",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "482531",
+  "type": "HOTEL",
+  "name": "Le Farnatchi",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "64",
+  "priceLevel": "$$$$",
+  "priceRange": "$227 - $609",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-84910",
+  "address": "2 Derb el Farnatchi, Rue Souk el Fassis Qua'at Ben Ahid, Marrakech 40000 Morocco",
+  "email": "info@lefarnatchi.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.6321",
+  "longitude": "-7.985367",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d482531-Reviews-Le_Farnatchi-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.lefarnatchi.com/",
+  "rankingString": "#64 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "475",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1199147",
+  "type": "HOTEL",
+  "name": "Lodge K Hotel & Spa",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "67",
+  "priceLevel": "$$$",
+  "priceRange": "$164 - $445",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 660-153924",
+  "address": "Route de Fez, Km 5 Dar Tounsi, Commune Ennakhil, Marrakech 40000 Morocco",
+  "email": "info@lodgek.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.651518",
+  "longitude": "-7.939467",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1199147-Reviews-Lodge_K_Hotel_Spa-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.lodgek.com",
+  "rankingString": "#67 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "251",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2313255",
+  "type": "HOTEL",
+  "name": "RIad Al Loune",
+  "awards": [
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "68",
+  "priceLevel": "$$",
+  "priceRange": "$90 - $147",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "0.0",
+  "phone": "+33 4 08 50 81 17",
+  "address": "77, Derb el Kadi Azbezt, Marrakech Morocco",
+  "email": "info@riadalloune.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.628786",
+  "longitude": "-7.984681",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d2313255-Reviews-RIad_Al_Loune-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadalloune.com",
+  "rankingString": "#68 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "254",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "657552",
+  "type": "HOTEL",
+  "name": "Riad Akka",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "70",
+  "priceLevel": "$$",
+  "priceRange": "$95 - $145",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-75767",
+  "address": "65, derb Lahbib Magni, Riad Zitoune Jdid, Marrakech 40000 Morocco",
+  "email": "info@riad-akka-marrakech.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.621668",
+  "longitude": "-7.982851",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d657552-Reviews-Riad_Akka-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riad-akka-marrakech.com",
+  "rankingString": "#70 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "246",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "631213",
+  "type": "HOTEL",
+  "name": "Dar Charkia",
+  "awards": [
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "69",
+  "priceLevel": "$$",
+  "priceRange": "$98 - $160",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-76477",
+  "address": "49-50 Derb Halfaoui Bab Doukkala, Marrakech 40030 Morocco",
+  "email": "darcharkia@yahoo.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.632273",
+  "longitude": "-7.993863",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d631213-Reviews-Dar_Charkia-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.darcharkia.com/location.html",
+  "rankingString": "#69 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "1379",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1788369",
+  "type": "HOTEL",
+  "name": "MonRiad",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "75",
+  "priceLevel": "$",
+  "priceRange": "$63 - $139",
+  "category": "hotel",
+  "rating": "4.5",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 613-603893",
+  "address": "4 Derb Lahbasse Riad Zitoun, Marrakech 4000 Morocco",
+  "email": "info@monriad.net",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.62259",
+  "longitude": "-7.985081",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1788369-Reviews-MonRiad-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.monriad.net",
+  "rankingString": "#75 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "1424",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "585420",
+  "type": "HOTEL",
+  "name": "Riad Dar Karma",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "79",
+  "priceLevel": "$$",
+  "priceRange": "$103 - $2,125",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 671-525354",
+  "address": "51, Derb El Mennabha, Marrakech 40000 Morocco",
+  "email": "info@dar-karma.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.614038",
+  "longitude": "-7.986878",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d585420-Reviews-Riad_Dar_Karma-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.dar-karma.com/",
+  "rankingString": "#79 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "214",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "644763",
+  "type": "HOTEL",
+  "name": "Riad Alma",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "80",
+  "priceLevel": "$$",
+  "priceRange": "$128 - $250",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-77162",
+  "address": "77 Derb Kbala Kasbah, Marrakech 40000 Morocco",
+  "email": "contact@riadalma.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.613918",
+  "longitude": "-7.989042",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d644763-Reviews-Riad_Alma-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riad-alma-marrakech.com/",
+  "rankingString": "#80 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "277",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1593885",
+  "type": "HOTEL",
+  "name": "Riad Adore",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "77",
+  "priceLevel": "$$",
+  "priceRange": "$146 - $273",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-77737",
+  "address": "94 Derb Tizougarine Dar El Bacha, Marrakech 40000 Morocco",
+  "email": "stuart.redcliffe@nalvic.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.631584",
+  "longitude": "-7.990781",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1593885-Reviews-Riad_Adore-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadadore.com",
+  "rankingString": "#77 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "562",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "8784909",
+  "type": "HOTEL",
+  "name": "Riad Haraka",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "78",
+  "priceLevel": "$",
+  "priceRange": "$57 - $96",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.5",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-85318",
+  "address": "49 derb el karma , derb Sidi Ahmed Soussi Medina, Marrakech 40000 Morocco",
+  "email": "riadharaka@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.636705",
+  "longitude": "-7.993463",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d8784909-Reviews-Riad_Haraka-Marrakech_Marrakech_Safi.html",
+  "website": "http://riadharakamarrakech.com/",
+  "rankingString": "#78 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "231",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2571285",
+  "type": "HOTEL",
+  "name": "Riad Chafia",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "73",
+  "priceLevel": "$$",
+  "priceRange": "$86 - $225",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 770-090522",
+  "address": "15 derb El Ferrane riad laârouss district, Médina, Marrakech 40000 Morocco",
+  "email": "riadchafiamarrakech@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.63395",
+  "longitude": "-7.989516",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d2571285-Reviews-Riad_Chafia-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadchafia.com",
+  "rankingString": "#73 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "295",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "642600",
+  "type": "HOTEL",
+  "name": "Riad Tizwa",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "76",
+  "priceLevel": "$$",
+  "priceRange": "$73 - $150",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 668-190872",
+  "address": "26 Derb Gueraba Dar El Bacha, Marrakech 40000 Morocco",
+  "email": "riadtizwam@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.6324",
+  "longitude": "-7.992331",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d642600-Reviews-Riad_Tizwa-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadtizwa.com/",
+  "rankingString": "#76 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "387",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "943466",
+  "type": "HOTEL",
+  "name": "AnaYela",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    }
+  ],
+  "rankingPosition": "71",
+  "priceLevel": "$$$",
+  "priceRange": "$207 - $326",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.5",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-86969",
+  "address": "28 Derb Zarwal Bab el Khamis, Marrakech 40000 Morocco",
+  "email": "info@anayela.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.64087",
+  "longitude": "-7.989122",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d943466-Reviews-AnaYela-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.anayela.de/",
+  "rankingString": "#71 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "241",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "952363",
+  "type": "HOTEL",
+  "name": "Riad Maison Belbaraka",
+  "awards": [
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "74",
+  "priceLevel": "$",
+  "priceRange": "$79 - $190",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 661-409467",
+  "address": "Riad Laarouss Derb Asafrou Sidi Bouamer No 242, Marrakech 40000 Morocco",
+  "email": "riadmbelbaraka@gmaill.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.633326",
+  "longitude": "-7.994267",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d952363-Reviews-Riad_Maison_Belbaraka-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.maisonbelbaraka.com/",
+  "rankingString": "#74 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "206",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2557585",
+  "type": "HOTEL",
+  "name": "Selman Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Travelers' Choice 2021"
+    },
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "72",
+  "priceLevel": "$$$$",
+  "priceRange": "$410 - $1,200",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "011212524459600",
+  "address": "Km 5 Route d'Amizmiz, Marrakech 40160 Morocco",
+  "email": "info@selman-marrakech.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.573818",
+  "longitude": "-8.018518",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d2557585-Reviews-Selman_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.selman-marrakech.com",
+  "rankingString": "#72 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "805",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1144237",
+  "type": "HOTEL",
+  "name": "Dar Ilham",
+  "awards": [
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "81",
+  "priceLevel": "$$",
+  "priceRange": "$96 - $186",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-22907",
+  "address": "13 Km , Route de Fes, Marrakech 40000 Morocco",
+  "email": "info@darilham.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.644918",
+  "longitude": "-7.858528",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1144237-Reviews-Dar_Ilham-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.darilham.com",
+  "rankingString": "#81 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "819",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "643560",
+  "type": "HOTEL",
+  "name": "Riad Adika",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "83",
+  "priceLevel": "$$",
+  "priceRange": "$69 - $149",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "00212542387900",
+  "address": "286 Derb Sidi Bouamar Quartier Riad Laârouss, Marrakech 40008 Morocco",
+  "email": "contact.riadadika@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.633432",
+  "longitude": "-7.992908",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d643560-Reviews-Riad_Adika-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.riad-adika.com/",
+  "rankingString": "#83 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "395",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "12285706",
+  "type": "HOTEL",
+  "name": "Riad Palais Blanc",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "84",
+  "priceLevel": "$$",
+  "priceRange": "$116 - $268",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-83908",
+  "address": "Onk Jmel Derb Zaouiat Benasser No. 5, Marrakech 43000 Morocco",
+  "email": "manager@palaisblancriad.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.635414",
+  "longitude": "-7.990792",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d12285706-Reviews-Riad_Palais_Blanc-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.palaisblancriad.com",
+  "rankingString": "#84 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "245",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1784721",
+  "type": "HOTEL",
+  "name": "Sirayane Boutique Hotel & Spa",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "88",
+  "priceLevel": "$$$",
+  "priceRange": "$173 - $377",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 525-118880",
+  "address": "Km 8 Route D'Amezmiz, Marrakech 40000 Morocco",
+  "email": "contact@sirayane.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.559114",
+  "longitude": "-8.045487",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1784721-Reviews-Sirayane_Boutique_Hotel_Spa-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.sirayane.com",
+  "rankingString": "#88 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "2117",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "625586",
+  "type": "HOTEL",
+  "name": "Riad Karmela",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "89",
+  "priceLevel": "$$",
+  "priceRange": "$60 - $187",
+  "category": "hotel",
+  "rating": "4.5",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-87937",
+  "address": "10 Derb El Feranne Azbetz Place Ben Salah, Marrakech 40008 Morocco",
+  "email": "info@riadkarmela.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.630163",
+  "longitude": "-7.984207",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d625586-Reviews-Riad_Karmela-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadkarmela.com",
+  "rankingString": "#89 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "1789",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "7109362",
+  "type": "HOTEL",
+  "name": "Riad Bindoo & SPA",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "87",
+  "priceLevel": "$$",
+  "priceRange": "$79 - $141",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-85530",
+  "address": "93, derb Sidi Lahcen ou Ali. Bab Doukala Médina, Marrakech 40008 Morocco",
+  "email": "riadbindoo@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.632145",
+  "longitude": "-7.995853",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d7109362-Reviews-Riad_Bindoo_SPA-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadbindoo.com",
+  "rankingString": "#87 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "365",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1942428",
+  "type": "HOTEL",
+  "name": "Riad de la Belle Epoque",
+  "awards": [
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "82",
+  "priceLevel": "$$",
+  "priceRange": "$79 - $127",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-89824",
+  "address": "29 Derb Sidi Bouamar Riad Laarouss, Marrakech Medina Morocco",
+  "email": "cebrian5@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.634047",
+  "longitude": "-7.993575",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1942428-Reviews-Riad_de_la_Belle_Epoque-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadbelleepoque.com/",
+  "rankingString": "#82 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "561",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "571493",
+  "type": "HOTEL",
+  "name": "Riyad Al Moussika",
+  "awards": [
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "86",
+  "priceLevel": "$$$",
+  "priceRange": "$116 - $256",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-89067",
+  "address": "62 Derb Boutouil Kennaria, Marrakech 40000 Morocco",
+  "email": "contact@riyad-al-moussika.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.6253",
+  "longitude": "-7.984074",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d571493-Reviews-Riyad_Al_Moussika-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riyad-al-moussika.com",
+  "rankingString": "#86 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "463",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "309056",
+  "type": "HOTEL",
+  "name": "Riad Malika",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "90",
+  "priceLevel": "$$",
+  "priceRange": "$103 - $208",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "0.0",
+  "phone": "011212524385451",
+  "address": "29 Arset Aouzal Quartier Dar el Bacha, Marrakech 40030 Morocco",
+  "email": "contact@riadmalika.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.631105",
+  "longitude": "-7.994657",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d309056-Reviews-Riad_Malika-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadmalika.com",
+  "rankingString": "#90 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "524",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2499362",
+  "type": "HOTEL",
+  "name": "Riad Tamarrakecht",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "85",
+  "priceLevel": "$",
+  "priceRange": "$68 - $184",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 633-732144",
+  "address": "132 Derb Aghrab Bab Aylen, Marrakech 11223 Morocco",
+  "email": "riadtamarrakecht@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.628193",
+  "longitude": "-7.977508",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d2499362-Reviews-Riad_Tamarrakecht-Marrakech_Marrakech_Safi.html",
+  "website": "http://riadtamarrakecht.com/",
+  "rankingString": "#85 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "496",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "665547",
+  "type": "HOTEL",
+  "name": "Riad & Spa Al Jazira",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "98",
+  "priceLevel": "$$",
+  "priceRange": "$86 - $197",
+  "category": "hotel",
+  "rating": "4.5",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5244-26463",
+  "address": "7 Derb Mayara, Sidi Ben Sliman, Marrakech 40000 Morocco",
+  "email": "reservation@marrakech-riads.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.636972",
+  "longitude": "-7.992517",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d665547-Reviews-Riad_Spa_Al_Jazira-Marrakech_Marrakech_Safi.html",
+  "website": "http://marrakech-riads.com/hostel_room/dar-el-jazira/",
+  "rankingString": "#98 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "897",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1113831",
+  "type": "HOTEL",
+  "name": "Riad Elizabeth",
+  "awards": [
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "91",
+  "priceLevel": "$",
+  "priceRange": "$68 - $83",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "00212 24 38 35 58",
+  "address": "Derb El Baroud 33, Marrakech 40000 Morocco",
+  "email": "riad-elizabeth@hotmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.63451",
+  "longitude": "-7.985302",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1113831-Reviews-Riad_Elizabeth-Marrakech_Marrakech_Safi.html",
+  "rankingString": "#91 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "475",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "650805",
+  "type": "HOTEL",
+  "name": "Riad Ilayka",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "95",
+  "priceLevel": "$$",
+  "priceRange": "$125 - $209",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-90607",
+  "address": "78 Derb El Hammam Mouassine, Medina, Marrakech 40000 Morocco",
+  "email": "riadilayka@yhaoo.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.629276",
+  "longitude": "-7.988211",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d650805-Reviews-Riad_Ilayka-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riad-ilayka.com",
+  "rankingString": "#95 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "369",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "5316843",
+  "type": "HOTEL",
+  "name": "Riad Tahili & Spa",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    }
+  ],
+  "rankingPosition": "96",
+  "priceLevel": "$",
+  "priceRange": "$68 - $126",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 662-122512",
+  "address": "34 Derb Sarij, Marrakech 40000 Morocco",
+  "email": "info@riad-tahili.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.622202",
+  "longitude": "-7.987657",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d5316843-Reviews-Riad_Tahili_Spa-Marrakech_Marrakech_Safi.html",
+  "website": "http://riadtahili.com/",
+  "rankingString": "#96 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "253",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "609373",
+  "type": "HOTEL",
+  "name": "Riad Djemanna",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "99",
+  "priceLevel": "$$",
+  "priceRange": "$77 - $169",
+  "category": "hotel",
+  "rating": "4.5",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-83587",
+  "address": "69 derb el Halfahoui Derb El Halfaoui - Bab Doukkala, Marrakech 40000 Morocco",
+  "email": "riaddjemanna@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.632635",
+  "longitude": "-7.993664",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d609373-Reviews-Riad_Djemanna-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riaddjemanna.com/",
+  "rankingString": "#99 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "210",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "6872610",
+  "type": "HOTEL",
+  "name": "Hivernage Secret Suites & Garden",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "94",
+  "priceLevel": "$$",
+  "priceRange": "$124 - $243",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5244-34659",
+  "address": "Rue el Houssima, Marrakech 40000 Morocco",
+  "email": "booking@hivernagesecret.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.623632",
+  "longitude": "-8.009304",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d6872610-Reviews-Hivernage_Secret_Suites_Garden-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.hivernagesecret.com/en/",
+  "rankingString": "#94 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "141",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "657605",
+  "type": "HOTEL",
+  "name": "Riad Dar Zaya",
+  "awards": [
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "92",
+  "priceLevel": "$$",
+  "priceRange": "$83 - $147",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "011212666150198",
+  "address": "60 derb El Hammam Mouassine Medina, Marrakech 40000 Morocco",
+  "email": "riad.darzaya@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.629131",
+  "longitude": "-7.988257",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d657605-Reviews-Riad_Dar_Zaya-Marrakech_Marrakech_Safi.html",
+  "rankingString": "#92 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "398",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1028220",
+  "type": "HOTEL",
+  "name": "Riad Marhbabikoum",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "100",
+  "priceLevel": "$",
+  "priceRange": "$68 - $122",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 661-348114",
+  "address": "43 Derb Lhabib Lmagni Quartier Riad Zitoun Jdid, Marrakech 40000 Morocco",
+  "email": "marhbabikoum@gmail.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.621456",
+  "longitude": "-7.983764",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1028220-Reviews-Riad_Marhbabikoum-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.marhbabikoum.com",
+  "rankingString": "#100 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "246",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1028491",
+  "type": "HOTEL",
+  "name": "Le Rihani",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "93",
+  "priceLevel": "$$",
+  "priceRange": "$133 - $240",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "0.0",
+  "phone": "+212 661-328668",
+  "address": "52 Derb El Arsa Kennaria, Marrakech 40000 Morocco",
+  "email": "info@riad-rihani.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.62559",
+  "longitude": "-7.985542",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d1028491-Reviews-Le_Rihani-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riad-rihani.com",
+  "rankingString": "#93 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "486",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "479343",
+  "type": "HOTEL",
+  "name": "Riyad El Cadi",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "97",
+  "priceLevel": "$$$",
+  "priceRange": "$144 - $370",
+  "category": "hotel",
+  "rating": "5.0",
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "phone": "+212 5243-78655",
+  "address": "86, 87 Derb Moulay Abdul Kader Dabachi, Marrakech 40000 Morocco",
+  "email": "info@riyadelcadi.com",
+  "amenities": [],
+  "prices": [],
+  "latitude": "31.628544",
+  "longitude": "-7.984661",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g293734-d479343-Reviews-Riyad_El_Cadi-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riyadelcadi.com",
+  "rankingString": "#97 of 736 hotels in Marrakech",
+  "rankingDenominator": "736",
+  "numberOfReviews": "319",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "11962970",
+  "type": "RESTAURANT",
+  "name": "Barometre Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    }
+  ],
+  "rankingPosition": "6",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 666-886798",
+  "address": "Rue Moulay Ali Gueliz Résidence Al houda, Marrakech 40000 Morocco",
+  "email": "inforesa@lebarometre.net",
+  "cuisine": [
+    "French",
+    "International",
+    "Mediterranean",
+    "Fusion",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 0,
+        "close": 60
+      },
+      {
+        "open": 1080,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.637169",
+  "longitude": "-8.014103",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d11962970-Reviews-Barometre_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.lebarometre.net/",
+  "rankingDenominator": "1111",
+  "rankingString": "#5 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "935",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "19961798",
+  "type": "RESTAURANT",
+  "name": "Dameh",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    }
+  ],
+  "rankingPosition": "1",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 611-200044",
+  "address": "15 Gueliz rue Qadi Ayad, El Harti RDC Résidence Mirador, Marrakech 40000 Morocco",
+  "email": "damehrestaurant@gmail.com",
+  "cuisine": [
+    "Lebanese",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "Healthy",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 960,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.63048",
+  "longitude": "-8.011671",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d19961798-Reviews-Dameh-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/dameh.restaurant/",
+  "rankingDenominator": "1111",
+  "rankingString": "#1 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "217",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "23756164",
+  "type": "RESTAURANT",
+  "name": "Gm Cafe Gourmet",
+  "awards": [],
+  "rankingPosition": "4",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-33738",
+  "address": "Croisement Av. Moulay Hassan Et Rue Imam Malik, Marrakech 40000 Morocco",
+  "email": "contact@gmcafe.ma",
+  "cuisine": [
+    "Italian",
+    "Japanese",
+    "Thai"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.62827",
+  "longitude": "-8.005798",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d23756164-Reviews-Gm_Cafe_Gourmet-Marrakech_Marrakech_Safi.html",
+  "website": "http://gmcafe.ma",
+  "rankingDenominator": "1111",
+  "rankingString": "#3 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "147",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "18490614",
+  "type": "RESTAURANT",
+  "name": "L'O A LA BOUCHE - Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    }
+  ],
+  "rankingPosition": "9",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 666-383133",
+  "address": "4 rue Badr Guéliz Marrakech, Marrakech 40000 Morocco",
+  "email": "contact@loalabouche.ma",
+  "cuisine": [
+    "French",
+    "Healthy",
+    "Gastropub"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.632399",
+  "longitude": "-8.006319",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d18490614-Reviews-L_O_A_LA_BOUCHE_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://loalabouche.ma",
+  "rankingDenominator": "1111",
+  "rankingString": "#8 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "308",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "23483887",
+  "type": "RESTAURANT",
+  "name": "Taj Moroccan Food",
+  "awards": [],
+  "rankingPosition": "10",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-44294",
+  "address": "1 Rue Moulay Ismail, Place Jamaa El-fna, Marrakech 40000 Morocco",
+  "email": "Restaurant.tajmarrakech@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Healthy"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.625784",
+  "longitude": "-7.989608",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d23483887-Reviews-Taj_Moroccan_Food-Marrakech_Marrakech_Safi.html",
+  "website": "http://taj-restaurant.ma/",
+  "rankingDenominator": "1111",
+  "rankingString": "#9 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "309",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "4953449",
+  "type": "RESTAURANT",
+  "name": "Pointbar",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "3",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 600-015010",
+  "address": "3 bis rue Abou Hayane Taouhidi, Gueliz, Marrakech 40000 Morocco",
+  "email": "infos.pointbar@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Bar",
+    "Mediterranean",
+    "European",
+    "Spanish",
+    "Wine Bar",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1020,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "31.639067",
+  "longitude": "-8.014753",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d4953449-Reviews-Pointbar-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.pointbar-restaurant.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#2 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "407",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "8324417",
+  "type": "RESTAURANT",
+  "name": "Patisserie Gato",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "2",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 669-358805",
+  "address": "Rue Hassania, gueliz, a Deux Pas De La Clinique Chifa A Cote de L'ecole du Sud, Marrakech 40000 Morocco",
+  "email": "gatoben14@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Vegetarian Friendly"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 510,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1170
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1170
+      }
+    ]
+  ],
+  "latitude": "31.634995",
+  "longitude": "-8.00806",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d8324417-Reviews-Patisserie_Gato-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/P%C3%A2tisserie-GAT%C3%94-Marrakech-Maroc-810535845697924/",
+  "rankingDenominator": "1111",
+  "rankingString": "#1 of 23 Dessert in Marrakech",
+  "numberOfReviews": "232",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1119629",
+  "type": "RESTAURANT",
+  "name": "Casa Lalla Restaurant",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "7",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-29757",
+  "address": "Riad Zitoun Lakdime 16 Derb Jamaa, Marrakech 40000 Morocco",
+  "email": "reservation@casalalla.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "European",
+    "International",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.623796",
+  "longitude": "-7.986164",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1119629-Reviews-Casa_Lalla_Restaurant-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.casalalla-restaurant.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#6 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "240",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "6578048",
+  "type": "RESTAURANT",
+  "name": "Bazaar Cafe",
+  "awards": [
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "8",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-87283",
+  "address": "Derb Sidi El Yamani, 24B, Marrakech 40000 Morocco",
+  "email": "info@bazaarcafe.ma",
+  "cuisine": [
+    "African",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "Healthy",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "31.628956",
+  "longitude": "-7.990959",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d6578048-Reviews-Bazaar_Cafe-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.bazaarcafe.ma/",
+  "rankingDenominator": "1111",
+  "rankingString": "#7 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "4567",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "12064808",
+  "type": "RESTAURANT",
+  "name": "Corner Cafe",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    }
+  ],
+  "rankingPosition": "54",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-28307",
+  "address": "18 Bis Kenaria dabachi, Marrakech 40000 Morocco",
+  "email": "corner.cafe2017@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Mediterranean",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [],
+  "latitude": "31.626745",
+  "longitude": "-7.986244",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d12064808-Reviews-Corner_Cafe-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/cornercafefood/",
+  "rankingDenominator": "1111",
+  "rankingString": "#53 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1597",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1841372",
+  "type": "RESTAURANT",
+  "name": "Gastro MK at Maison MK",
+  "awards": [
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "53",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 695-707200",
+  "address": "14 Derb Lafkih Sbaai Quartier Luksour, Marrakech 40000 Morocco",
+  "email": "corine.lionella@orange.fr",
+  "cuisine": [
+    "Moroccan",
+    "European",
+    "Contemporary",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [],
+  "latitude": "31.627417",
+  "longitude": "-7.992205",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1841372-Reviews-Gastro_MK_at_Maison_MK-Marrakech_Marrakech_Safi.html",
+  "website": "http://maisonmk.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#52 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1915",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "8753369",
+  "type": "RESTAURANT",
+  "name": "Kafe Merstan",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "57",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-80045",
+  "address": "2 Rue Souk Chaaria Kast Benahid, Marrakech 40000 Morocco",
+  "email": "kafe.merstan@gmail.com",
+  "cuisine": [
+    "African",
+    "Moroccan",
+    "Mediterranean",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "31.630714",
+  "longitude": "-7.986303",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d8753369-Reviews-Kafe_Merstan-Marrakech_Marrakech_Safi.html",
+  "website": "http://kafemerstan.ma/",
+  "rankingDenominator": "1111",
+  "rankingString": "#56 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "495",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "12319711",
+  "type": "RESTAURANT",
+  "name": "Le Petit Cornichon",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "52",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-21251",
+  "address": "27, Rue Moulay Ali, Marrakech 40000 Morocco",
+  "email": "legrandcornichon@gmail.com",
+  "cuisine": [
+    "French",
+    "International",
+    "Mediterranean",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "31.637478",
+  "longitude": "-8.013177",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d12319711-Reviews-Le_Petit_Cornichon-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.petitcornichon.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#51 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "254",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "3753063",
+  "type": "RESTAURANT",
+  "name": "Limoni Cafe and Restaurant",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "55",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-83030",
+  "address": "40, Dyour Saboun Bab Taghzout, Marrakech 40000 Morocco",
+  "email": "adrianopirani@gmail.com",
+  "cuisine": [
+    "Italian",
+    "Moroccan",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.635487",
+  "longitude": "-7.989006",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d3753063-Reviews-Limoni_Cafe_and_Restaurant-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.facebook.com/hamidzoubaire/",
+  "rankingDenominator": "1111",
+  "rankingString": "#54 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "2135",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "7247039",
+  "type": "RESTAURANT",
+  "name": "Kech Burger",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "60",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-48589",
+  "address": "39 Rue Mohamed El Bakkal Gueliz, Marrakech 40000 Morocco",
+  "email": "Oulmantich.marwane@gmail.com",
+  "cuisine": [
+    "American",
+    "Fast Food"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1800
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1800
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1800
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1800
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1800
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1800
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1800
+      }
+    ]
+  ],
+  "latitude": "31.642279",
+  "longitude": "-8.017921",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d7247039-Reviews-Kech_Burger-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/kechburger",
+  "rankingDenominator": "1111",
+  "rankingString": "#58 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "395",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "15081648",
+  "type": "RESTAURANT",
+  "name": "Fine Mama?",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    }
+  ],
+  "rankingPosition": "58",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 525-610600",
+  "address": "89 Passage Prince Moulay Rachid, Marrakech 40000 Morocco",
+  "email": "restaurantfinemama@hotmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Mediterranean",
+    "Street Food",
+    "African",
+    "Healthy",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.622974",
+  "longitude": "-7.989675",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d15081648-Reviews-Fine_Mama-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.facebook.com/restaurantfinemama/",
+  "rankingDenominator": "1111",
+  "rankingString": "#57 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "567",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "12328096",
+  "type": "RESTAURANT",
+  "name": "Dar Chef",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "56",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 661-286859",
+  "address": "Rue Kennaria N 123 Bis, Marrakech 40000 Morocco",
+  "email": "darchefmarrakech@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "African",
+    "Healthy",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [],
+  "latitude": "31.625599",
+  "longitude": "-7.986289",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d12328096-Reviews-Dar_Chef-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.darchef.ma/",
+  "rankingDenominator": "1111",
+  "rankingString": "#55 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "691",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "15931923",
+  "type": "RESTAURANT",
+  "name": "Le Tire Bouchon Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    }
+  ],
+  "rankingPosition": "5",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 601-880443",
+  "address": "Angle Rue Loubnane et Rue Souriya Gueliz En face de la Pharmacie Atlas, deriere le Care eden, Marrakech 40000 Morocco",
+  "email": "letirebouchongueliz@gmail.com",
+  "cuisine": [
+    "French",
+    "Mediterranean",
+    "European",
+    "International",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.634977",
+  "longitude": "-8.009735",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d15931923-Reviews-Le_Tire_Bouchon_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://le-tire-bouchon-marrakech.business.site",
+  "rankingDenominator": "1111",
+  "rankingString": "#4 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "157",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2720589",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le LOFT",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "51",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-34216",
+  "address": "18 Rue de la Liberte Gueliz, Marrakech 40000 Morocco",
+  "email": "contact@restaurant-loft.com",
+  "cuisine": [
+    "French",
+    "European",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.634632",
+  "longitude": "-8.013021",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d2720589-Reviews-Restaurant_Le_LOFT-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.restaurant-loft.com/",
+  "rankingDenominator": "1111",
+  "rankingString": "#50 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1182",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "15325803",
+  "type": "RESTAURANT",
+  "name": "Ma Maison",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    }
+  ],
+  "rankingPosition": "18",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 649-071498",
+  "address": "64 Arset Aouzal Bab Doukkala Medina Dar El B Acha, Marrakech 40000 Morocco",
+  "email": "mamaisonmarrakech@gmail.com",
+  "cuisine": [
+    "Pizza",
+    "Italian",
+    "French",
+    "European",
+    "Healthy",
+    "Dining bars"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1020,
+        "close": 1440
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1020,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.63064",
+  "longitude": "-7.994735",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d15325803-Reviews-Ma_Maison-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.mamaisonmarrakech.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#17 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "181",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "11788811",
+  "type": "RESTAURANT",
+  "name": "Cuisine De Terroir",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "19",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 610-193183",
+  "address": "St Kennaria 118 Immeuble biyaze, Marrakech 40000 Morocco",
+  "email": "cuisinedeterroir118@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.62581",
+  "longitude": "-7.986302",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d11788811-Reviews-Cuisine_De_Terroir-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/Cuisine.de.terroir/",
+  "rankingDenominator": "1111",
+  "rankingString": "#18 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1830",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "12217411",
+  "type": "RESTAURANT",
+  "name": "Restaurant Angsana Si Said",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "16",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-89011",
+  "address": "Angsana Riad Si Said, N. 1-2-4 Derb Abbes El Fassi, Riad Zitoun Jdid Medina (close to Si Said Museum), Marrakech 40400 Morocco",
+  "email": "marrakech@angsana.com",
+  "cuisine": [
+    "European",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.62271",
+  "longitude": "-7.983853",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d12217411-Reviews-Restaurant_Angsana_Si_Said-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.angsanariadscollection.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#15 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "149",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1605469",
+  "type": "RESTAURANT",
+  "name": "Azar",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "13",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-30920",
+  "address": "Rue de Yougoslavie, Marrakech Morocco",
+  "email": "contact@azar-marrakech.com",
+  "cuisine": [
+    "Lebanese",
+    "Moroccan",
+    "Mediterranean",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1140,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1500
+      }
+    ],
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1500
+      }
+    ]
+  ],
+  "latitude": "31.631792",
+  "longitude": "-8.013081",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1605469-Reviews-Azar-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.azarmarrakech.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#12 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "2887",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "4084692",
+  "type": "RESTAURANT",
+  "name": "Manzil la Tortue",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "20",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 661-955517",
+  "address": "Km12, Route de Ouarzazate Douar Gzoula, Marrakech 40000 Morocco",
+  "email": "vincent.manzilatortue@gmail.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "International",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.614029",
+  "longitude": "-7.890144",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d4084692-Reviews-Manzil_la_Tortue-Marrakech_Marrakech_Safi.html",
+  "rankingDenominator": "1111",
+  "rankingString": "#19 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "332",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1752832",
+  "type": "RESTAURANT",
+  "name": "La Table Du Riad at 72 Riad Living",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    }
+  ],
+  "rankingPosition": "15",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-87629",
+  "address": "72 Arset Awzel, Bab Doukkala Taxi stop: Dar el Bacha, Marrakech 40000 Morocco",
+  "email": "info@latableduriad.com",
+  "cuisine": [
+    "Moroccan",
+    "Middle Eastern",
+    "Arabic",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1170,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "31.630596",
+  "longitude": "-7.994729",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1752832-Reviews-La_Table_Du_Riad_at_72_Riad_Living-Marrakech_Marrakech_Safi.html",
+  "website": "http://riadliving.com/la-table-du-riad/philosophy/",
+  "rankingDenominator": "1111",
+  "rankingString": "#14 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "802",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "15582548",
+  "type": "RESTAURANT",
+  "name": "La Palette Restaurant Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    }
+  ],
+  "rankingPosition": "12",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 622-513311",
+  "address": "24 Rue Moulay Ali, Marrakech 40000 Morocco",
+  "email": "info@lapalette-restaurant.com",
+  "cuisine": [
+    "Gastropub",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "Healthy",
+    "Dining bars",
+    "Vegetarian Friendly",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.637623",
+  "longitude": "-8.013369",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d15582548-Reviews-La_Palette_Restaurant_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.lapalette-restaurant.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#11 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "575",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "19649187",
+  "type": "RESTAURANT",
+  "name": "Votre Table",
+  "awards": [],
+  "rankingPosition": "11",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-41644",
+  "address": "Kennaria Immeuble el Biaz Numero 3, Marrakech 40000 Morocco",
+  "email": "votretablemarrakech@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Mediterranean",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 630,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 630,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.625776",
+  "longitude": "-7.986293",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d19649187-Reviews-Votre_Table-Marrakech_Marrakech_Safi.html",
+  "website": "http://votretablemarrakech.com/en/",
+  "rankingDenominator": "1111",
+  "rankingString": "#10 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "160",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2372150",
+  "type": "RESTAURANT",
+  "name": "Patisserie Amandine Marrakech",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "59",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-35683",
+  "address": "6 Rue de la Liberte, Marrakech 40000 Morocco",
+  "email": "commande@amandinemarrakech.com",
+  "cuisine": [
+    "European",
+    "Vegetarian Friendly"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 510,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1200
+      }
+    ],
+    [
+      {
+        "open": 510,
+        "close": 1200
+      }
+    ]
+  ],
+  "latitude": "31.634497",
+  "longitude": "-8.013225",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d2372150-Reviews-Patisserie_Amandine_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.amandinemarrakech.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#1 of 14 Bakeries in Marrakech",
+  "numberOfReviews": "920",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "19327270",
+  "type": "RESTAURANT",
+  "name": "L'Mida Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    }
+  ],
+  "rankingPosition": "14",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-43662",
+  "address": "78 bis Derb Nkhel, Rahba Kdima, Medina, Marrakech 40030 Morocco",
+  "email": "lmidamarrakech@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Mediterranean",
+    "Healthy",
+    "Contemporary"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.629225",
+  "longitude": "-7.986516",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d19327270-Reviews-L_Mida_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://lmidamarrakech.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#13 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "415",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2291268",
+  "type": "RESTAURANT",
+  "name": "Chez Brahim",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "66",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 669-778126",
+  "address": "38 Derb Dabachi Jamaa El Fna, Marrakech 40000 Morocco",
+  "email": "chezbrahim.ma@gmail.com",
+  "cuisine": [
+    "Pizza",
+    "Moroccan",
+    "Grill",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.627043",
+  "longitude": "-7.986056",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d2291268-Reviews-Chez_Brahim-Marrakech_Marrakech_Safi.html",
+  "website": "http://facebook.com/Chez-Brahim-Marrakech-308805243154494/",
+  "rankingDenominator": "1111",
+  "rankingString": "#64 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "2009",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1221814",
+  "type": "RESTAURANT",
+  "name": "Riad Kniza Restaurant",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    },
+    {
+      "year": "2011",
+      "name": "Certificate of Excellence 2011"
+    }
+  ],
+  "rankingPosition": "63",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-76942",
+  "address": "34 Derb L'Hotel Bab Doukala Medina, Marrakech 40000 Morocco",
+  "email": "riadkniza@riadkniza.com",
+  "cuisine": [
+    "African",
+    "Moroccan",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [],
+  "latitude": "31.632881",
+  "longitude": "-7.997657",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1221814-Reviews-Riad_Kniza_Restaurant-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riadkniza.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#61 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "621",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "4834334",
+  "type": "RESTAURANT",
+  "name": "Kui-Zin Medina",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "68",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 653-100088",
+  "address": "12, Rue Amsefah, Sidi Abdelaziz .Medina 12, Rue Amsefah, Sidi Abdelaziz . Medina, Marrakech 40000 Morocco",
+  "email": "kuizin.marrakech@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Mediterranean",
+    "Healthy",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "31.632446",
+  "longitude": "-7.988499",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d4834334-Reviews-Kui_Zin_Medina-Marrakech_Marrakech_Safi.html",
+  "website": "http://web.facebook.com/kuizinmedina",
+  "rankingDenominator": "1111",
+  "rankingString": "#66 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "2347",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1544900",
+  "type": "RESTAURANT",
+  "name": "La Cuisine de Mona",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "70",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 618-137959",
+  "address": "Residence Mamoune 5 n 115B Quartier El Ghoul, Cite Olm, Marrakech 40000 Morocco",
+  "email": "waelsimo27@gmail.com",
+  "cuisine": [
+    "Lebanese",
+    "Mediterranean",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "31.639433",
+  "longitude": "-8.01985",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1544900-Reviews-La_Cuisine_de_Mona-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.facebook.com/LaCuisineDeMonaGueliz/",
+  "rankingDenominator": "1111",
+  "rankingString": "#68 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "415",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1379275",
+  "type": "RESTAURANT",
+  "name": "Ksar Es Saoussan",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "61",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 661-344372",
+  "address": "Rue des Ksour 3 Derb El Messaoudyenne 3derb El messaouienne ksour, Marrakech 40000 Morocco",
+  "email": "contact@essaoussane.com",
+  "cuisine": [
+    "African",
+    "Moroccan",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.628124",
+  "longitude": "-7.991954",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1379275-Reviews-Ksar_Es_Saoussan-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.essaoussane.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#59 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "550",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "9728671",
+  "type": "RESTAURANT",
+  "name": "A.Montana",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "64",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 687-151262",
+  "address": "60 Derb Jdid Douar Graoua, Marrakech 40000 Morocco",
+  "email": "info@arnica-montana.com",
+  "cuisine": [
+    "Moroccan",
+    "Arabic",
+    "Mediterranean",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1200,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.625114",
+  "longitude": "-7.983197",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d9728671-Reviews-A_Montana-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.arnica-montana.com/",
+  "rankingDenominator": "1111",
+  "rankingString": "#62 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "165",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "19571726",
+  "type": "RESTAURANT",
+  "name": "Zeitoun Gueliz",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    }
+  ],
+  "rankingPosition": "65",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-39560",
+  "address": "213 Avenue Moahmed V, Marrakech 40000 Morocco",
+  "email": "contact@zeitouncafe.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "Healthy",
+    "International",
+    "Vegetarian Friendly"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "31.630331",
+  "longitude": "-8.004696",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d19571726-Reviews-Zeitoun_Gueliz-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.zeitouncafe.com/",
+  "rankingDenominator": "1111",
+  "rankingString": "#63 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "322",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1982129",
+  "type": "RESTAURANT",
+  "name": "La Villa Des Orangers - Restaurant",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "67",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-84638",
+  "address": "6 rue Sidi Mimoun, Marrakech 40000 Morocco",
+  "email": "message@villadesorangers.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "31.620432",
+  "longitude": "-7.991461",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1982129-Reviews-La_Villa_Des_Orangers_Restaurant-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.villadesorangers.com/index.php/le-restaurant",
+  "rankingDenominator": "1111",
+  "rankingString": "#65 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "336",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2143283",
+  "type": "RESTAURANT",
+  "name": "So Lounge Marrakech",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    }
+  ],
+  "rankingPosition": "62",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 656-515009",
+  "address": "Rue Haroun Errachid, Quartier Hivernage Sofitel Marrakech Lounge & Spa, Marrakech 40000 Morocco",
+  "email": "H3569-UC@sofitel.com",
+  "cuisine": [
+    "Asian",
+    "French",
+    "Moroccan",
+    "Mediterranean",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1170,
+        "close": 1680
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1680
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1680
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1680
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1680
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1680
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1680
+      }
+    ]
+  ],
+  "latitude": "31.621866",
+  "longitude": "-8.002805",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d2143283-Reviews-So_Lounge_Marrakech-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.so-nightlounge.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#60 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1796",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "6618793",
+  "type": "RESTAURANT",
+  "name": "Cafe Chez ZaZa",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "69",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 662-747530",
+  "address": "21 Place Bab Fteuh, Marrakech 40000 Morocco",
+  "email": "mmezaza13@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "31.627357",
+  "longitude": "-7.988506",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d6618793-Reviews-Cafe_Chez_ZaZa-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.facebook.com/caferestaurantchezzazamarrakech/",
+  "rankingDenominator": "1111",
+  "rankingString": "#67 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1120",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "23463857",
+  "type": "RESTAURANT",
+  "name": "Mazel مزال Cafe",
+  "awards": [],
+  "rankingPosition": "17",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 661-662824",
+  "address": "8 Place des Ferblontiers, Medina, Marrakech 40000 Morocco",
+  "email": "mazelcoffeeshop@gmail.com",
+  "cuisine": [
+    "Cafe",
+    "Healthy",
+    "Arabic",
+    "Moroccan",
+    "Mediterranean",
+    "Street Food",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "31.619827",
+  "longitude": "-7.985012",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d23463857-Reviews-Mazel_Cafe-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.mazelcoffee.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#16 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "157",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "12189460",
+  "type": "RESTAURANT",
+  "name": "Zeitoun Cafe Jemaa El Fnaa",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    }
+  ],
+  "rankingPosition": "71",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-27570",
+  "address": "107 Place Jemaa El Fnaa, Marrakech 40000 Morocco",
+  "email": "contact@zeitouncafe.com",
+  "cuisine": [
+    "Moroccan",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ]
+  ],
+  "latitude": "31.626741",
+  "longitude": "-7.98754",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d12189460-Reviews-Zeitoun_Cafe_Jemaa_El_Fnaa-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.zeitouncafe.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#69 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "3164",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "8070743",
+  "type": "RESTAURANT",
+  "name": "L'Auberge Espagnole",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "77",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-58913",
+  "address": "Street Corner Tarik Ibn Ziad and Moulay Ali Gueliz, Marrakech 40000 Morocco",
+  "email": "contact@lauberge-espagnole.ma",
+  "cuisine": [
+    "Latin",
+    "Bar",
+    "Mediterranean",
+    "European",
+    "Spanish",
+    "Vegetarian Friendly",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "31.637571",
+  "longitude": "-8.013169",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d8070743-Reviews-L_Auberge_Espagnole-Marrakech_Marrakech_Safi.html",
+  "website": "http://lauberge-espagnole.ma/",
+  "rankingDenominator": "1111",
+  "rankingString": "#75 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "312",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "775719",
+  "type": "RESTAURANT",
+  "name": "Le Tanjia",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "72",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-83836",
+  "address": "Place des Ferblantiers Mellah, Médina, Marrakech 40000 Morocco",
+  "email": "tanjiaoriental@gmail.com",
+  "cuisine": [
+    "Moroccan",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.619852",
+  "longitude": "-7.984757",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d775719-Reviews-Le_Tanjia-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.tanjiaoriental.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#70 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "560",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "8752557",
+  "type": "RESTAURANT",
+  "name": "Snack Grand Atlas",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "80",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 668-333655",
+  "address": "Rue Ibnou Marine A 100 M de la Place Jemmaa El Fna, Marrakech Morocco",
+  "cuisine": [
+    "Moroccan",
+    "Seafood",
+    "Mediterranean",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.624594",
+  "longitude": "-7.989633",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d8752557-Reviews-Snack_Grand_Atlas-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/Restaurant-Grand-Atlas-2036632713330327/",
+  "rankingDenominator": "1111",
+  "rankingString": "#77 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "358",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1179436",
+  "type": "RESTAURANT",
+  "name": "Katsura",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Certificate of Excellence 2012"
+    }
+  ],
+  "rankingPosition": "78",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "024 43 43 58 ",
+  "address": "Rue Oum Errabia, Marrakech Morocco",
+  "cuisine": [
+    "Japanese",
+    "Sushi",
+    "Asian",
+    "Thai",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [],
+  "latitude": "31.630697",
+  "longitude": "-8.00421",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1179436-Reviews-Katsura-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.katsura.ma",
+  "rankingDenominator": "1111",
+  "rankingString": "#76 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "905",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "10635544",
+  "type": "RESTAURANT",
+  "name": "Fox Art Food",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    }
+  ],
+  "rankingPosition": "74",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 629-800352",
+  "address": "Rue Riad Zitoun el Kdim, Marrakech 40000 Morocco",
+  "cuisine": [
+    "French",
+    "American",
+    "Moroccan",
+    "Vegan Options",
+    "Vegetarian Friendly"
+  ],
+  "mealTypes": [],
+  "hours": [],
+  "latitude": "31.62161",
+  "longitude": "-7.986267",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d10635544-Reviews-Fox_Art_Food-Marrakech_Marrakech_Safi.html",
+  "website": "http://Www.foxartfood.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#72 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "315",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "17621226",
+  "type": "RESTAURANT",
+  "name": "Terrasse de la fontaine",
+  "awards": [],
+  "rankingPosition": "29",
+  "priceLevel": "$$$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 525-077537",
+  "address": "118 Rue mouassine, Marrakech 40000 Morocco",
+  "email": "info@terrassedelafontaine.com",
+  "cuisine": [
+    "Moroccan",
+    "European",
+    "Middle Eastern",
+    "International",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.630009",
+  "longitude": "-7.989251",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d17621226-Reviews-Terrasse_de_la_fontaine-Marrakech_Marrakech_Safi.html",
+  "website": "http://terrassedelafontaine.com/",
+  "rankingDenominator": "1111",
+  "rankingString": "#28 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "314",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1734183",
+  "type": "RESTAURANT",
+  "name": "Le 6",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    }
+  ],
+  "rankingPosition": "73",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 613-604352",
+  "address": "Avenue Mohammed VI Residence Hivernage, Marrakech 40020 Morocco",
+  "email": "restaurantle6@gmail.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "Dining bars",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1620
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1620
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1620
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1620
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1620
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1620
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1620
+      }
+    ]
+  ],
+  "latitude": "31.62091",
+  "longitude": "-8.009681",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1734183-Reviews-Le_6-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/Le-6-Dar-6-Marrakech-171118932932553/",
+  "rankingDenominator": "1111",
+  "rankingString": "#71 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "646",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "8785548",
+  "type": "RESTAURANT",
+  "name": "Beats Burger",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    }
+  ],
+  "rankingPosition": "76",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-91213",
+  "address": "35 Souk Jeld Kimakine 35 Souk Jeld Kimakhine, Marrakech 40000 Morocco",
+  "email": "beatsburger.contact@gmail.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "American",
+    "Fast Food",
+    "European",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "31.631172",
+  "longitude": "-7.988471",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d8785548-Reviews-Beats_Burger-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.beatsburger.com/",
+  "rankingDenominator": "1111",
+  "rankingString": "#74 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "455",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1097815",
+  "type": "RESTAURANT",
+  "name": "Bagatelle",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Certificate of Excellence 2013"
+    }
+  ],
+  "rankingPosition": "75",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-30274",
+  "address": "103, Rue de Yougoslavie Guéliz, Marrakech 40000 Morocco",
+  "email": "bagatellemarrakech@gmail.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.632818",
+  "longitude": "-8.013362",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1097815-Reviews-Bagatelle-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.bagatelle-marrakech.com/",
+  "rankingDenominator": "1111",
+  "rankingString": "#73 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1121",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "1563744",
+  "type": "RESTAURANT",
+  "name": "Chez Mado",
+  "awards": [],
+  "rankingPosition": "22",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-21494",
+  "address": "Rue Moulay Ali Gueliz, Marrakech 40000 Morocco",
+  "email": "chezmadokech@gmail.com",
+  "cuisine": [
+    "French",
+    "Seafood",
+    "Mediterranean",
+    "European",
+    "Vegetarian Friendly"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 1140,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.637371",
+  "longitude": "-8.013867",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d1563744-Reviews-Chez_Mado-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.restaurantchezmado.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#21 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "655",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "10644105",
+  "type": "RESTAURANT",
+  "name": "La Cantine Des Gazelles",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    }
+  ],
+  "rankingPosition": "21",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 624-061452",
+  "address": "6 Dabachi Kennaria Kennaria, Marrakech 40040 Morocco",
+  "email": "lacantinedesgazelles@gmail.com",
+  "cuisine": [
+    "African",
+    "Moroccan",
+    "Mediterranean",
+    "European",
+    "Healthy",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 960
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 960
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 960
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 960
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "31.62588",
+  "longitude": "-7.986056",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d10644105-Reviews-La_Cantine_Des_Gazelles-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/La-Cantine-Des-Gazelles-1752597298378867/",
+  "rankingDenominator": "1111",
+  "rankingString": "#20 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "2966",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "15286316",
+  "type": "RESTAURANT",
+  "name": "Cafe Restaurant Dar L'hssir",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    }
+  ],
+  "rankingPosition": "27",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 600-756845",
+  "address": "15-12, Rue Tachenbacht, Marrakech 40030 Morocco",
+  "cuisine": [
+    "Moroccan",
+    "African",
+    "Middle Eastern",
+    "Vegetarian Friendly"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.63083",
+  "longitude": "-7.98244",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d15286316-Reviews-Cafe_Restaurant_Dar_L_hssir-Marrakech_Marrakech_Safi.html",
+  "website": "https://www.facebook.com/CafeResTaurantDarLhssira/",
+  "rankingDenominator": "1111",
+  "rankingString": "#26 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "203",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "13448013",
+  "type": "RESTAURANT",
+  "name": "Zeitoun Cafe Kasbah",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "28",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-44244",
+  "address": "417 Bab Agnaou Face aux tombeaux Saadiens, Marrakech 40000 Morocco",
+  "email": "contact@zeitouncafe.com",
+  "cuisine": [
+    "Moroccan",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Halal",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ],
+    [
+      {
+        "open": 540,
+        "close": 1500
+      }
+    ]
+  ],
+  "latitude": "31.617651",
+  "longitude": "-7.989763",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d13448013-Reviews-Zeitoun_Cafe_Kasbah-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.zeitouncafe.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#27 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "1298",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "19510270",
+  "type": "RESTAURANT",
+  "name": "Las Terrazas De Andalucia",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    }
+  ],
+  "rankingPosition": "25",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-48226",
+  "address": "Hotel El Andalous, Avenue du President Kennedy Hivernage, Marrakech 40020 Morocco",
+  "email": "lasterrazas@elandalous-marrakech.com",
+  "cuisine": [
+    "Moroccan",
+    "Spanish",
+    "Asian",
+    "Vegetarian Friendly"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 480,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.621124",
+  "longitude": "-8.00703",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d19510270-Reviews-Las_Terrazas_De_Andalucia-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.lasterrazas.ma",
+  "rankingDenominator": "1111",
+  "rankingString": "#24 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "298",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "11833681",
+  "type": "RESTAURANT",
+  "name": "Exotic Bali",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    }
+  ],
+  "rankingPosition": "26",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 666-044882",
+  "address": "2 rue Badr Angle Mohamed V, Marrakech 40010 Morocco",
+  "email": "exoticbalifood@gmail.com",
+  "cuisine": [
+    "Asian",
+    "Indonesian",
+    "Central Asian",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 900
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.631866",
+  "longitude": "-8.006484",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d11833681-Reviews-Exotic_Bali-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.exotic-bali.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#25 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "393",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "2724196",
+  "type": "RESTAURANT",
+  "name": "Cafe Mama Afrika",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Certificate of Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "79",
+  "priceLevel": "$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 604-092509",
+  "address": "Rue Oum Errabia 40000, Marrakech 40000 Morocco",
+  "email": "i.dehhab@gmail.com",
+  "cuisine": [
+    "Cafe",
+    "Contemporary",
+    "Fusion",
+    "Healthy",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ]
+  ],
+  "latitude": "31.63711",
+  "longitude": "-8.004733",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d2724196-Reviews-Cafe_Mama_Afrika-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/MamaafrikaMaroc/",
+  "rankingDenominator": "1111",
+  "rankingString": "#1 of 24 Coffee & Tea in Marrakech",
+  "numberOfReviews": "589",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "3644607",
+  "type": "RESTAURANT",
+  "name": "Entrepotes",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Certificate of Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Certificate of Excellence 2018"
+    },
+    {
+      "year": "2016",
+      "name": "Certificate of Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Certificate of Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Certificate of Excellence 2014"
+    }
+  ],
+  "rankingPosition": "24",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-30539",
+  "address": "62, Rue Tarik Ibn Zyad, Marrakech 40000 Morocco",
+  "email": "entrepotesmarrakech@gmail.com",
+  "cuisine": [
+    "French",
+    "Moroccan",
+    "Bar",
+    "Mediterranean",
+    "European",
+    "Spanish",
+    "Asian",
+    "Healthy",
+    "Wine Bar",
+    "International",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1080,
+        "close": 1560
+      }
+    ]
+  ],
+  "latitude": "31.63434",
+  "longitude": "-8.00996",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d3644607-Reviews-Entrepotes-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.facebook.com/EntrepotesMarrakech/?ref=ts&fref=ts",
+  "rankingDenominator": "1111",
+  "rankingString": "#23 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "766",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "12917400",
+  "type": "RESTAURANT",
+  "name": "Le Trou au Mur",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Certificate of Excellence 2019"
+    }
+  ],
+  "rankingPosition": "30",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5243-84900",
+  "address": "39 Derb El Farnatchi Marrakech Medina, Marrakech Morocco",
+  "email": "info@letrouaumur.com",
+  "cuisine": [
+    "Moroccan",
+    "International",
+    "European",
+    "Middle Eastern",
+    "Vegetarian Friendly",
+    "Vegan Options",
+    "Gluten Free Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1110,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1110,
+        "close": 1440
+      }
+    ],
+    [],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1110,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1110,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1110,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 750,
+        "close": 900
+      },
+      {
+        "open": 1110,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "31.63213",
+  "longitude": "-7.985556",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d12917400-Reviews-Le_Trou_au_Mur-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.letrouaumur.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#29 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "511",
+  "reviewsCount": 0,
+  "reviews": []
+},
+{
+  "id": "15124412",
+  "type": "RESTAURANT",
+  "name": "Jemaa ElFna Restaurant",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Certificate of Excellence 2020"
+    }
+  ],
+  "rankingPosition": "23",
+  "priceLevel": "$$ - $$$",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+212 5244-43812",
+  "address": "Boulevard des banques rue Zaari N 42 Kennaria, Marrakech 40000 Morocco",
+  "email": "contact@riad-jemaa-elfna.com",
+  "cuisine": [
+    "Moroccan",
+    "Middle Eastern",
+    "International",
+    "Vegetarian Friendly",
+    "Vegan Options"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "31.625471",
+  "longitude": "-7.987164",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g293734-d15124412-Reviews-Jemaa_ElFna_Restaurant-Marrakech_Marrakech_Safi.html",
+  "website": "http://www.riad-jemaa-elfna.com",
+  "rankingDenominator": "1111",
+  "rankingString": "#22 of 1,225 Restaurants in Marrakech",
+  "numberOfReviews": "437",
+  "reviewsCount": 0,
+  "reviews": []
+}]
