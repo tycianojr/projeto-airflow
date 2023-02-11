@@ -1,7 +1,5 @@
 # Módulo de Conexão ao MySQL
 
-# Execute o comando descrito no manual em pdf para instalar o driver de conexão Python ao MySQL.
-
 # Import
 import mysql.connector as msql
 
