@@ -5,7 +5,7 @@
 O objetivo deste projeto foi desenvolver uma orquestração de pipeline de dados com o Apache Airflow, para enriquecer um Datawarehouse a partir de um ETL desenvolvido em Python. Foi extraído dados do site *tripadvisor* com informações para alimentar as seguintes estruturas:
 
 - Dimensão com range de preço e posição no ranking;
-- Dimensão com prémios e avaliação dos usuários;
+- Dimensão com prêmios e avaliação dos usuários;
 - Dimensão com número de avalições, classe do hotel e avaliação do usuário;
 - Fato com as chaves estrangeira e os fatos.
 
