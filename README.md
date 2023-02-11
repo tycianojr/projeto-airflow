@@ -124,17 +124,17 @@ task1_carrega_dados >> task2_extrai_dados >> task3_prices_range_position >> task
 
 ### Interface Airflow:
 
-Graph:
+**Graph:**
 
-![Graph]("C:\Users\devty\Documents\Projetos\projeto-airflow\img\graph.pn"g)
+![Graph](https://github.com/tycianojr/projeto-airflow/blob/main/img/graph.png)
 
-Grid:
+**Grid:**
 
-![Grid]("C:\Users\devty\Documents\Projetos\projeto-airflow\img\grid.png")
+![Grid](https://github.com/tycianojr/projeto-airflow/blob/main/img/grid.png)
 
-Gantt:
+**Gantt:**
 
-![Grid]("C:\Users\devty\Documents\Projetos\projeto-airflow\img\gantt.png")
+![Grid](https://github.com/tycianojr/projeto-airflow/blob/main/img/gantt.png)
 
 
 
