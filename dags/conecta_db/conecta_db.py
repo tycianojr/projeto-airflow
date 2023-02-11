@@ -1,13 +1,11 @@
 # Módulo de Conexão ao MySQL
 
-# Execute o comando descrito no manual em pdf para instalar o driver de conexão Python ao MySQL.
-
 # Import
 import mysql.connector as msql
 
 # Cria conexão
 print("\nConectando ao SGBD MySQL...")
-conn = msql.connect(host = 'localhost', user = 'svc-thsaj', password = 'Tw343-00', database = "dw-mysql")
+conn = msql.connect(host = 'localhost', user = 'svc-thsaj', password = '*******', database = "dw-mysql")
 
 # Abre um cursor
 print("\nConexão feita com sucesso...")
