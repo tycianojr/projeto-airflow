@@ -7,7 +7,7 @@ import mysql.connector as msql
 
 # Cria conexão
 print("\nConectando ao SGBD MySQL...")
-conn = msql.connect(host = 'localhost', user = 'svc-thsaj', password = 'Tw343-00', database = "dw-mysql")
+conn = msql.connect(host = 'localhost', user = 'svc-thsaj', password = '*******', database = "dw-mysql")
 
 # Abre um cursor
 print("\nConexão feita com sucesso...")
